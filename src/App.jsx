@@ -105,7 +105,7 @@ function App() {
                 >
                   <use href="/icons.svg#bluesky-icon"></use>
                 </svg>
-                Bluesky
+              mon portfolio
               </a>
             </li>
           </ul>
